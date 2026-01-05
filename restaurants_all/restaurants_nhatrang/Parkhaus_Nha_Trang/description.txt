@@ -1,0 +1,4 @@
+NAME: Parkhaus Nha Trang
+STATS: 4,9(118)
+ADDRESS: 15 Nguyễn Thiện Thuật, Tân Tiến, Nha Trang, Khánh Hòa 650000
+URL: https://www.google.com/maps/place/Parkhaus+Nha+Trang/data=!4m7!3m6!1s0x31706703c7afaf2d:0xcbc0cbbc67703985!8m2!3d12.2420837!4d109.1933444!16s%2Fg%2F11xh4lwlf5!19sChIJLa-vxwNncDERhTlwZ7zLwMs?authuser=0&hl=ru&rclk=1

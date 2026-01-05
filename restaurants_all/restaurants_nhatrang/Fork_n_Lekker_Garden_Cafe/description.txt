@@ -1,0 +1,4 @@
+NAME: Fork’n Lekker Garden Cafe
+STATS: 4,8(301)
+ADDRESS: 23 Đinh Lễ, Street, Nha Trang, Khánh Hòa 650000
+URL: https://www.google.com/maps/place/Fork%E2%80%99n+Lekker+Garden+Cafe/data=!4m7!3m6!1s0x3170673897d7cdcf:0xeb3fed5ef2fdc087!8m2!3d12.2186694!4d109.1938862!16s%2Fg%2F11t1j6xzjs!19sChIJz83XlzhncDERh8D98l7tP-s?authuser=0&hl=ru&rclk=1

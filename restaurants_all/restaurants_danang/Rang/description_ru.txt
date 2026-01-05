@@ -1,0 +1,33 @@
+📍  FIND LOCAL BUSINESSES, VIEW MAPS AND GET DRIVING DIRECTIONS IN GOOGLE MAPS. " NAME="DESCRIPTION">  <META CONTENT="RANG - BEST INDIAN FOOD RESTAURANT AND BAR NEAR ME, DA NANG
+
+📝 ОПИСАНИЕ:
+🌟  Find local businesses, view maps and get driving directions in Google Maps. " name="Description">  <meta content="Rang - Best Indian Food Restaurant and Bar Near Me, Da Nang — замечательный ресторан в Дананге. Здесь вас ждет уютная атмосфера, внимательный персонал и потрясающий вкус местных блюд. Отличное место для отдыха и гастрономических открытий в самом сердце города.
+
+⭐️ ОТЗЫВЫ:
+
+🔗 Ссылка: https://www.google.com/maps/place/Rang+-+Best+Indian+Food+Restaurant+and+Bar+Near+Me,+Da+Nang/data=!4m7!3m6!1s0x314217c36cdde32d:0xe4441c5dd7354c63!8m2!3d16.043!4d108.247966!16s%2Fg%2F11lc_24y8d!19sChIJLePdbMMXQjERY0w1110cROQ?authuser=0&hl=en&rclk=1
+
+
+
+⭐ 10 ПОПУЛЯРНЫХ ОТЗЫВОВ:
+1. > <title> Карты Google </title> <meta content=
+---
+2. Rang — лучший ресторан и бар индийской кухни рядом со мной, Дананг · 384 Vo Nguyen Giap, Bac My An, Ngu Hanh Son, Дананг 550000
+---
+3. Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+---
+4. начальный масштаб = 1,0, максимальный масштаб = 1,0, минимальный масштаб = 1,0, масштабируемый пользователем = нет
+---
+5. Rang — лучший ресторан и бар индийской кухни рядом со мной, Дананг
+---
+6. };window.google = {kEI:kEI || '1'};})();</script> <script nonce=
+---
+7. ,null,d)}var b;if(window. Performance)var a=(b=window. Performance.timing)&&b.responseStart;var h=a>0?new c(a):new c;window.tactilecsi={Timer:c,load:h};b&&(b=b.navigationStart,b>0&&a>=b&&(window.tactilecsi.srt=a-b));try{a=n ull,window.chrome&&window.chrome.csi&&(a=Math.floor(window.chrome.csi().pageT)),a==null&&window.gtbExternal&&
+(a=window.gtbExternal.pageT()),a==null&&window.external&&(a=window.external.pageT),a&&(window.tactilecsi.pt=a)}catch(d){}})();}).call(this);</script> <script nonce=
+---
+8. >(function(){'use strict';var e=typeof Object.defineProperties==
+---
+9. ,function(a){if(a)return a;var b=function(k,v){this.g=k;e(this,
+---
+10. ,d=0,g=function(k){if(этот экземпляр g)выдать новый TypeError(
+---

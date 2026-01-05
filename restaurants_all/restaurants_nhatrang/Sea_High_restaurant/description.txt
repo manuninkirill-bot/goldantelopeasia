@@ -1,0 +1,4 @@
+NAME: Sea High restaurant
+STATS: 4,7(135)
+ADDRESS: 96a4 Trần Phú, Lộc Thọ, Nha Trang, Khánh Hòa 650000
+URL: https://www.google.com/maps/place/Sea+High+restaurant/data=!4m7!3m6!1s0x317067002c23136f:0x62238444ea5c44c2!8m2!3d12.2282593!4d109.1992866!16s%2Fg%2F11vrcllv1y!19sChIJbxMjLABncDERwkRc6kSEI2I?authuser=0&hl=ru&rclk=1

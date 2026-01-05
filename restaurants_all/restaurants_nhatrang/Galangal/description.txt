@@ -1,0 +1,4 @@
+NAME: Galangal
+STATS: 4,2(2 418)
+ADDRESS: 1-A Biệt Thự, Lộc Thọ, Nha Trang, Khánh Hòa 650000
+URL: https://www.google.com/maps/place/Galangal/data=!4m7!3m6!1s0x31706763227e09bd:0xe6224a9578a82784!8m2!3d12.2357634!4d109.1967537!16s%2Fg%2F11bxfqgfx3!19sChIJvQl-ImNncDERhCeoeJVKIuY?authuser=0&hl=ru&rclk=1

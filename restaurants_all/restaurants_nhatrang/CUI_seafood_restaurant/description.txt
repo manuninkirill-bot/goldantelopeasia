@@ -1,0 +1,4 @@
+NAME: CUI seafood restaurant
+STATS: 4,8(2 596)
+ADDRESS: 135 Đ. Hồng Bàng, Tân Tiến, Nha Trang, Khánh Hòa 650000
+URL: https://www.google.com/maps/place/Cui+Seafood+%28Cui+Quan%29+%7C+Steak+%26+Vietnamese+Food/data=!4m7!3m6!1s0x317067a08a088749:0xfd15b8f05639580a!8m2!3d12.238548!4d109.191906!16s%2Fg%2F11s7_9zc8b!19sChIJSYcIiqBncDERClg5VvC4Ff0?authuser=0&hl=ru&rclk=1

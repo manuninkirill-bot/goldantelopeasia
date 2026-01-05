@@ -1,0 +1,4 @@
+NAME: 정통 인도 레스토랑과 옥상 바
+STATS: 4,6(12)
+ADDRESS: 73/16 Trần Quang Khải, Lộc Thọ, Nha Trang, Khánh Hòa 650000
+URL: https://www.google.com/maps/place/%EC%A0%95%ED%86%B5+%EC%9D%B8%EB%8F%84+%EB%A0%88%EC%8A%A4%ED%86%A0%EB%9E%91%EA%B3%BC+%EC%98%A5%EC%83%81+%EB%B0%94/data=!4m7!3m6!1s0x3170678b0e305f27:0x3bfaf9d5ea06ae07!8m2!3d12.2322108!4d109.1955811!16s%2Fg%2F11k9b43px0!19sChIJJ18wDotncDERB64G6tX5-js?authuser=0&hl=ru&rclk=1

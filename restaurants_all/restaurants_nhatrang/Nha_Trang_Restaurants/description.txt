@@ -1,0 +1,4 @@
+NAME: Nha Trang Restaurants
+STATS: 4,5(14)
+ADDRESS: 26 Trần Quang Khải, Lộc Thọ, Nha Trang, Khánh Hòa 650000
+URL: https://www.google.com/maps/place/Nha+Trang+Restaurants/data=!4m7!3m6!1s0x31706764ed2effff:0x49d9021dc29bacb!8m2!3d12.2333012!4d109.1954889!16s%2Fg%2F11hylcz10m!19sChIJ__8u7WRncDERy7op3CGQnQQ?authuser=0&hl=ru&rclk=1

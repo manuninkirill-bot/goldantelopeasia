@@ -1,0 +1,4 @@
+NAME: Golden Bamboo Restaurant
+STATS: 4,4(967)
+ADDRESS: 17 Biệt Thự, Lộc Thọ, Nha Trang, Khánh Hòa 650000
+URL: https://www.google.com/maps/place/Golden+Bamboo+Restaurant/data=!4m7!3m6!1s0x317067e930a21c51:0xcf754ceac261c89a!8m2!3d12.2354922!4d109.1951065!16s%2Fg%2F11t7ctcy7m!19sChIJURyiMOlncDERmshhwupMdc8?authuser=0&hl=ru&rclk=1

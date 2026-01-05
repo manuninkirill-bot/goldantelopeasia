@@ -1,0 +1,33 @@
+📍  FIND LOCAL BUSINESSES, VIEW MAPS AND GET DRIVING DIRECTIONS IN GOOGLE MAPS. " NAME="DESCRIPTION">  <META CONTENT="NÉN DANANG RESTAURANT
+
+📝 ОПИСАНИЕ:
+🌟  Find local businesses, view maps and get driving directions in Google Maps. " name="Description">  <meta content="Nén Danang Restaurant — замечательный ресторан в Дананге. Здесь вас ждет уютная атмосфера, внимательный персонал и потрясающий вкус местных блюд. Отличное место для отдыха и гастрономических открытий в самом сердце города.
+
+⭐️ ОТЗЫВЫ:
+
+🔗 Ссылка: https://www.google.com/maps/place/N%C3%A9n+Danang+Restaurant/data=!4m7!3m6!1s0x3142175f35c9eb37:0x76acf6f5e208c735!8m2!3d16.0346026!4d108.2395581!16s%2Fg%2F11f03qvndm!19sChIJN-vJNV8XQjERNccI4vX2rHY?authuser=0&hl=en&rclk=1
+
+
+
+⭐ 10 ПОПУЛЯРНЫХ ОТЗЫВОВ:
+1. > <title> Карты Google </title> <meta content=
+---
+2. Ресторан Nen Danang · 16 My Da Tay 2 Street, Khue My, Ngu Hanh Son, Дананг 550000
+---
+3. Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+---
+4. начальный масштаб = 1,0, максимальный масштаб = 1,0, минимальный масштаб = 1,0, масштабируемый пользователем = нет
+---
+5. };window.google = {kEI:kEI || '1'};})();</script> <script nonce=
+---
+6. ,null,d)}var b;if(window. Performance)var a=(b=window. Performance.timing)&&b.responseStart;var h=a>0?new c(a):new c;window.tactilecsi={Timer:c,load:h};b&&(b=b.navigationStart,b>0&&a>=b&&(window.tactilecsi.srt=a-b));try{a=n ull,window.chrome&&window.chrome.csi&&(a=Math.floor(window.chrome.csi().pageT)),a==null&&window.gtbExternal&&
+(a=window.gtbExternal.pageT()),a==null&&window.external&&(a=window.external.pageT),a&&(window.tactilecsi.pt=a)}catch(d){}})();}).call(this);</script> <script nonce=
+---
+7. >(function(){'use strict';var e=typeof Object.defineProperties==
+---
+8. ,function(a){if(a)return a;var b=function(k,v){this.g=k;e(this,
+---
+9. ,d=0,g=function(k){if(этот экземпляр g)выдать новый TypeError(
+---
+10. щелкните мышью вниз, щелкните правой кнопкой мыши, нажмите клавишу контекстного меню, колесо управления
+---

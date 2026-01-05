@@ -1,0 +1,4 @@
+NAME: Cilantro
+STATS: 4,6(1 095)
+ADDRESS: 113 Hùng Vương, Lộc Thọ, Nha Trang, Khánh Hòa 57000
+URL: https://www.google.com/maps/place/Cilantro/data=!4m7!3m6!1s0x31706700030ddad7:0xefd52b36b1eff8cc!8m2!3d12.2336022!4d109.1960995!16s%2Fg%2F11y3mc4gb5!19sChIJ19oNAwBncDERzPjvsTYr1e8?authuser=0&hl=ru&rclk=1

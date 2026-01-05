@@ -1,0 +1,4 @@
+NAME: Nhà hàng Vịnh Xanh
+STATS: 4,7(7 129)
+ADDRESS: 3 Nguyễn Thị Minh Khai, Lộc Thọ, Nha Trang, Khánh Hòa 650000
+URL: https://www.google.com/maps/place/Nh%C3%A0+h%C3%A0ng+V%E1%BB%8Bnh+Xanh/data=!4m10!3m9!1s0x317067d8b6d86d7f:0x595e591d71b196e9!5m2!4m1!1i2!8m2!3d12.2385685!4d109.1947614!16s%2Fg%2F11s4sxr9ph!19sChIJf23YtthncDER6ZaxcR1ZXlk?authuser=0&hl=ru&rclk=1

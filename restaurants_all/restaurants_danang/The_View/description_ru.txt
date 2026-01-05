@@ -1,0 +1,33 @@
+📍  FIND LOCAL BUSINESSES, VIEW MAPS AND GET DRIVING DIRECTIONS IN GOOGLE MAPS. " NAME="DESCRIPTION">  <META CONTENT="THE VIEW - YACHT RESTAURANT DA NANG
+
+📝 ОПИСАНИЕ:
+🌟  Find local businesses, view maps and get driving directions in Google Maps. " name="Description">  <meta content="The View - Yacht Restaurant Da Nang — замечательный ресторан в Дананге. Здесь вас ждет уютная атмосфера, внимательный персонал и потрясающий вкус местных блюд. Отличное место для отдыха и гастрономических открытий в самом сердце города.
+
+⭐️ ОТЗЫВЫ:
+
+🔗 Ссылка: https://www.google.com/maps/place/The+View+-+Yacht+Restaurant+Da+Nang/data=!4m7!3m6!1s0x31423dbb8bd2c75d:0xd7d7d7f61ed0ac44!8m2!3d16.0641685!4d108.2296915!16s%2Fg%2F11v3_qbsjp!19sChIJXcfSi7s9QjERRKzQHvbX19c?authuser=0&hl=en&rclk=1
+
+
+
+⭐ 10 ПОПУЛЯРНЫХ ОТЗЫВОВ:
+1. > <title> Карты Google </title> <meta content=
+---
+2. The View - Ресторан на яхте Дананг · Happy Yacht Cruise, Ан Хай, Хай Чау, Дананг 50400
+---
+3. начальный масштаб = 1,0, максимальный масштаб = 1,0, минимальный масштаб = 1,0, масштабируемый пользователем = нет
+---
+4. };window.google = {kEI:kEI || '1'};})();</script> <script nonce=
+---
+5. ,null,d)}var b;if(window. Performance)var a=(b=window. Performance.timing)&&b.responseStart;var h=a>0?new c(a):new c;window.tactilecsi={Timer:c,load:h};b&&(b=b.navigationStart,b>0&&a>=b&&(window.tactilecsi.srt=a-b));try{a=n ull,window.chrome&&window.chrome.csi&&(a=Math.floor(window.chrome.csi().pageT)),a==null&&window.gtbExternal&&
+(a=window.gtbExternal.pageT()),a==null&&window.external&&(a=window.external.pageT),a&&(window.tactilecsi.pt=a)}catch(d){}})();}).call(this);</script> <script nonce=
+---
+6. >(function(){'use strict';var e=typeof Object.defineProperties==
+---
+7. ,function(a){if(a)return a;var b=function(k,v){this.g=k;e(this,
+---
+8. ,d=0,g=function(k){if(этот экземпляр g)выдать новый TypeError(
+---
+9. щелкните мышью вниз, щелкните правой кнопкой мыши, нажмите клавишу контекстного меню, колесо управления
+---
+10. >globals.fua.install();</script> <script nonce=
+---

@@ -1,0 +1,4 @@
+NAME: K.HOUSE Restaurant
+STATS: 4,9(2 653)
+ADDRESS: 86 Trần Phú, Lộc Thọ, Nha Trang, Khánh Hòa 650000
+URL: https://www.google.com/maps/place/K.HOUSE+Restaurant/data=!4m7!3m6!1s0x3170678f4a48004d:0x8e903da6dd0ff7c8!8m2!3d12.23059!4d109.19912!16s%2Fg%2F11kj_594cw!19sChIJTQBISo9ncDERyPcP3aY9kI4?authuser=0&hl=ru&rclk=1

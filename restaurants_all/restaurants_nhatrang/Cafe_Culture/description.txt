@@ -1,0 +1,4 @@
+NAME: Cafe Culture
+STATS: 4,8(1 477)
+ADDRESS: 120/25-26 Nguyễn Thiện Thuật, Tân Tiến, Nha Trang, Khánh Hòa 650000
+URL: https://www.google.com/maps/place/Cafe+Culture/data=!4m7!3m6!1s0x3170680a208b49db:0xe706ca8d31016a4f!8m2!3d12.2329439!4d109.1939383!16s%2Fg%2F11hbtrz1nv!19sChIJ20mLIApocDERT2oBMY3KBuc?authuser=0&hl=ru&rclk=1

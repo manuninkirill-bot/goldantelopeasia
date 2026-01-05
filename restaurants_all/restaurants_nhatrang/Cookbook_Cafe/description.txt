@@ -1,0 +1,4 @@
+NAME: Cookbook Cafe
+STATS: 4,7(154)
+ADDRESS: 32 - 34 Trần Phú, Lộc Thọ, Nha Trang, Khánh Hòa 650000
+URL: https://www.google.com/maps/place/Cookbook+Cafe/data=!4m7!3m6!1s0x317067335f8bbd19:0xee2ef866b73dc609!8m2!3d12.2445911!4d109.1960166!16s%2Fg%2F11g2r8062f!19sChIJGb2LXzNncDERCcY9t2b4Lu4?authuser=0&hl=ru&rclk=1
