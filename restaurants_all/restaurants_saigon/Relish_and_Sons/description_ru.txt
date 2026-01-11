@@ -1,13 +1,5 @@
-📝 Relish and Sons
-
-⭐ ОТЗЫВЫ:
-1. ><head><title>Поиск в Google</title><style>body{background-color:#fff</style><script nonce=
----
-2. >window.google = window.google || {};window.google.c = window.google.c || {cap:0};</script></head><body><noscript><style>table,div,span,p{display:none</style><meta content=
----
-3. >перейдите сюда</a>, если вас не переведут в течение нескольких секунд.</div></noscript><script nonce=
----
-4. ))===1?function(w){return W.createScript(w)}:function(w){return
----
-5. ||J==void 0?28:53;иначе если(Y==84)Array.isArray(J)&&(J=J.join(
----
+51. Relish and Sons
+Описание: Популярный ресторан в Хошимине, известный стабильным качеством, приятной атмосферой и понятным меню. Подходит как для повседневных визитов, так и для встреч с друзьями или деловых ужинов. Интерьер продуман, обслуживание дружелюбное, блюда готовятся из свежих ингредиентов с акцентом на вкус и подачу.
+Тип кухни: Интернациональная / Специализированная
+Отзыв: «Отличное место — вкусно, спокойно и всегда предсказуемо по качеству. С удовольствием вернусь ещё раз».
+Google Maps: https://www.google.com/maps/search/?api=1&query=Relish+and+Sons+Saigon

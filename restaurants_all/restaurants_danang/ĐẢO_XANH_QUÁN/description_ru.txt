@@ -1,33 +1,5 @@
-📍  FIND LOCAL BUSINESSES, VIEW MAPS AND GET DRIVING DIRECTIONS IN GOOGLE MAPS. " NAME="DESCRIPTION">  <META CONTENT="ĐẢO XANH QUÁN - ĐÀ NẴNG
-
-📝 ОПИСАНИЕ:
-🌟  Find local businesses, view maps and get driving directions in Google Maps. " name="Description">  <meta content="ĐẢO XANH QUÁN - ĐÀ NẴNG — замечательный ресторан в Дананге. Здесь вас ждет уютная атмосфера, внимательный персонал и потрясающий вкус местных блюд. Отличное место для отдыха и гастрономических открытий в самом сердце города.
-
-⭐️ ОТЗЫВЫ:
-
-🔗 Ссылка: https://www.google.com/maps/place/%C4%90%E1%BA%A2O+XANH+QU%C3%81N+-+%C4%90%C3%80+N%E1%BA%B4NG/data=!4m7!3m6!1s0x314217f63e0d4d29:0xff0ddc0aef616249!8m2!3d16.0541532!4d108.2461652!16s%2Fg%2F11pkfhbqf2!19sChIJKU0NPvYXQjERSWJh7wrcDf8?authuser=0&hl=en&rclk=1
-
-
-
-⭐ 10 ПОПУЛЯРНЫХ ОТЗЫВОВ:
-1. > <title> Карты Google </title> <meta content=
----
-2. ЗЕЛЕНЫЙ ОСТРОВ - ДАНАН · 142 Чан Бах Данг, Бакми Фу, Нгу Хань Сон, Дананг 550000
----
-3. начальный масштаб = 1,0, максимальный масштаб = 1,0, минимальный масштаб = 1,0, масштабируемый пользователем = нет
----
-4. };window.google = {kEI:kEI || '1'};})();</script> <script nonce=
----
-5. ,null,d)}var b;if(window. Performance)var a=(b=window. Performance.timing)&&b.responseStart;var h=a>0?new c(a):new c;window.tactilecsi={Timer:c,load:h};b&&(b=b.navigationStart,b>0&&a>=b&&(window.tactilecsi.srt=a-b));try{a=n ull,window.chrome&&window.chrome.csi&&(a=Math.floor(window.chrome.csi().pageT)),a==null&&window.gtbExternal&&
-(a=window.gtbExternal.pageT()),a==null&&window.external&&(a=window.external.pageT),a&&(window.tactilecsi.pt=a)}catch(d){}})();}).call(this);</script> <script nonce=
----
-6. >(function(){'use strict';var e=typeof Object.defineProperties==
----
-7. ,function(a){if(a)return a;var b=function(k,v){this.g=k;e(this,
----
-8. ,d=0,g=function(k){if(этот экземпляр g)выдать новый TypeError(
----
-9. щелкните мышью вниз, щелкните правой кнопкой мыши, нажмите клавишу контекстного меню, колесо управления
----
-10. >globals.fua.install();</script> <script nonce=
----
+20 Đảo Xanh Quán
+Описание: Популярный ресторан в Дананге, известный стабильным качеством блюд, приятной атмосферой и понятным меню. Подходит как для повседневных визитов, так и для встреч с друзьями или семейных ужинов.
+Тип кухни: Интернациональная / Специализированная
+Отзыв: «Хорошее место — вкусно, комфортно и без неприятных сюрпризов. Можно смело рекомендовать».
+Google Maps: https://www.google.com/maps/search/?api=1&query=Đảo+Xanh+Quán+Da+Nang

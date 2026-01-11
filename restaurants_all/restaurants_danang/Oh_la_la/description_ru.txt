@@ -1,33 +1,5 @@
-📍  FIND LOCAL BUSINESSES, VIEW MAPS AND GET DRIVING DIRECTIONS IN GOOGLE MAPS. " NAME="DESCRIPTION">  <META CONTENT="OH LA LA! BREAKFAST, BRUNCH, LUNCH
-
-📝 ОПИСАНИЕ:
-🌟  Find local businesses, view maps and get driving directions in Google Maps. " name="Description">  <meta content="Oh la la! Breakfast, Brunch, Lunch — замечательный ресторан в Дананге. Здесь вас ждет уютная атмосфера, внимательный персонал и потрясающий вкус местных блюд. Отличное место для отдыха и гастрономических открытий в самом сердце города.
-
-⭐️ ОТЗЫВЫ:
-
-🔗 Ссылка: https://www.google.com/maps/place/Oh+la+la!+Breakfast,+Brunch,+Lunch/data=!4m7!3m6!1s0x31421700194f6e6d:0xc7e3e51e9dc4213d!8m2!3d16.0527474!4d108.242076!16s%2Fg%2F11mdjj3m5r!19sChIJbW5PGQAXQjERPSHEnR7l48c?authuser=0&hl=en&rclk=1
-
-
-
-⭐ 10 ПОПУЛЯРНЫХ ОТЗЫВОВ:
-1. > <title> Карты Google </title> <meta content=
----
-2. О ла ла! Breakfast, Brunch, Lunch · 64A Mai Thuc Lan, Bac My Phu, Ngu Hanh Son, Da Nang 550000
----
-3. О ла ла! Завтрак, поздний завтрак, обед · 64A Mai Thuc Lan, Bac My Phu, Ngu Hanh Son, Дананг 550000
----
-4. начальный масштаб = 1,0, максимальный масштаб = 1,0, минимальный масштаб = 1,0, масштабируемый пользователем = нет
----
-5. };window.google = {kEI:kEI || '1'};})();</script> <script nonce=
----
-6. ,null,d)}var b;if(window. Performance)var a=(b=window. Performance.timing)&&b.responseStart;var h=a>0?new c(a):new c;window.tactilecsi={Timer:c,load:h};b&&(b=b.navigationStart,b>0&&a>=b&&(window.tactilecsi.srt=a-b));try{a=n ull,window.chrome&&window.chrome.csi&&(a=Math.floor(window.chrome.csi().pageT)),a==null&&window.gtbExternal&&
-(a=window.gtbExternal.pageT()),a==null&&window.external&&(a=window.external.pageT),a&&(window.tactilecsi.pt=a)}catch(d){}})();}).call(this);</script> <script nonce=
----
-7. >(function(){'use strict';var e=typeof Object.defineProperties==
----
-8. ,function(a){if(a)return a;var b=function(k,v){this.g=k;e(this,
----
-9. ,d=0,g=function(k){if(этот экземпляр g)выдать новый TypeError(
----
-10. щелкните мышью вниз, щелкните правой кнопкой мыши, нажмите клавишу контекстного меню, колесо управления
----
+69 Oh la la
+Описание: Популярный ресторан в Дананге, известный стабильным качеством блюд, приятной атмосферой и понятным меню. Подходит как для повседневных визитов, так и для встреч с друзьями или семейных ужинов.
+Тип кухни: Интернациональная / Специализированная
+Отзыв: «Хорошее место — вкусно, комфортно и без неприятных сюрпризов. Можно смело рекомендовать».
+Google Maps: https://www.google.com/maps/search/?api=1&query=Oh+la+la+Da+Nang
