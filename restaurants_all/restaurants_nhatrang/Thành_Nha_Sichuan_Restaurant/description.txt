@@ -1,0 +1,4 @@
+NAME: Thành Nha Sichuan Restaurant
+STATS: 4,4(8)
+ADDRESS: 25 Trần Quang Khải, Lộc Thọ, Nha Trang, Khánh Hòa 650000
+URL: https://www.google.com/maps/place/Th%C3%A0nh+Nha+Sichuan+Restaurant/data=!4m7!3m6!1s0x31706700254ede73:0x18f38cb46f5a4c1f!8m2!3d12.2333203!4d109.1964043!16s%2Fg%2F11lcs08lhh!19sChIJc95OJQBncDERH0xab7SM8xg?authuser=0&hl=ru&rclk=1

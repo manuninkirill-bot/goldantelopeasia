@@ -1,0 +1,4 @@
+NAME: Egoist Mediterranean Restaurant
+STATS: 4,5(455)
+ADDRESS: 12 Nguyễn Thiện Thuật, Tân Tiến, Nha Trang, Khánh Hòa 650000
+URL: https://www.google.com/maps/place/Egoist+Mediterranean+Restaurant/data=!4m7!3m6!1s0x317067619b57c173:0x4a48696f8459e66c!8m2!3d12.2422257!4d109.1931826!16s%2Fg%2F11ks79bm5k!19sChIJc8FXm2FncDERbOZZhG9pSEo?authuser=0&hl=ru&rclk=1

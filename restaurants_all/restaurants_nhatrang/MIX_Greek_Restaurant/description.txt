@@ -1,0 +1,4 @@
+NAME: MIX Greek Restaurant
+STATS: 4,6(2 942)
+ADDRESS: 181 Nguyễn Thiện Thuật, Lộc Thọ, Nha Trang, Khánh Hòa 650000
+URL: https://www.google.com/maps/place/MIX+Greek+Restaurant/data=!4m7!3m6!1s0x3170677b335c2ee5:0x9ba279d75191ec71!8m2!3d12.2363719!4d109.1942029!16s%2Fg%2F11bwmfgdm2!19sChIJ5S5cM3tncDERceyRUdd5ops?authuser=0&hl=ru&rclk=1

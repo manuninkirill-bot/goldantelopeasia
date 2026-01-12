@@ -1,0 +1,4 @@
+NAME: V87 Restaurant & Craft Beer
+STATS: 4,4(355)
+ADDRESS: 144 Nguyễn Thiện Thuật, Lộc Thọ, Nha Trang, Khánh Hòa 650000
+URL: https://www.google.com/maps/place/V87+Restaurant+%26+Craft+Beer/data=!4m7!3m6!1s0x31706739601f2c21:0xd9d71bf23f5f150b!8m2!3d12.2327423!4d109.1950437!16s%2Fg%2F11rz4rgrwg!19sChIJISwfYDlncDERCxVfP_Ib19k?authuser=0&hl=ru&rclk=1

@@ -1,0 +1,4 @@
+NAME: Tathik Restaurant
+STATS: 5,0(2)
+ADDRESS: 88A Trần Phú, Lộc Thọ, Nha Trang, Khánh Hòa 650000
+URL: https://www.google.com/maps/place/Tathik+Restaurant/data=!4m7!3m6!1s0x317067394f1ac771:0xf2f5e0b804073867!8m2!3d12.2300726!4d109.1982306!16s%2Fg%2F11yhfrqlmp!19sChIJcccaTzlncDERZzgHBLjg9fI?authuser=0&hl=ru&rclk=1

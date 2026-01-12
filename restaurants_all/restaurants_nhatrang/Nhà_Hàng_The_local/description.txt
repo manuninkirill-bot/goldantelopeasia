@@ -1,0 +1,4 @@
+NAME: Nhà Hàng The local
+STATS: 4,6(457)
+ADDRESS: 77 Hùng Vương, Lộc Thọ, Nha Trang, Khánh Hòa 57106
+URL: https://www.google.com/maps/place/Nh%C3%A0+H%C3%A0ng+The+local/data=!4m7!3m6!1s0x317067a899f8b34f:0xb4b83bbf9d61165b!8m2!3d12.2348409!4d109.1958324!16s%2Fg%2F11v0gmbmtq!19sChIJT7P4mahncDERWxZhnb87uLQ?authuser=0&hl=ru&rclk=1

@@ -1,0 +1,4 @@
+NAME: Максис кофейня и ресторан
+STATS: 5,0(594)
+ADDRESS: 27A Lê Quý Đôn, Tân Tiến, Nha Trang, Khánh Hòa 650000
+URL: https://www.google.com/maps/place/%D0%9C%D0%B0%D0%BA%D1%81%D0%B8%D1%81+%D0%BA%D0%BE%D1%84%D0%B5%D0%B9%D0%BD%D1%8F+%D0%B8+%D1%80%D0%B5%D1%81%D1%82%D0%BE%D1%80%D0%B0%D0%BD/data=!4m7!3m6!1s0x317067006e851321:0x6e222b6d617ae898!8m2!3d12.2439673!4d109.1914075!16s%2Fg%2F11w9sn6ljb!19sChIJIROFbgBncDERmOh6YW0rIm4?authuser=0&hl=ru&rclk=1

@@ -1,0 +1,4 @@
+NAME: Same Same But Different Restaurant
+STATS: 4,5(292)
+ADDRESS: 107 Hùng Vương, Lộc Thọ, Nha Trang, Khánh Hòa 650000
+URL: https://www.google.com/maps/place/Same+Same+But+Different+Restaurant/data=!4m7!3m6!1s0x3170672f7949ac5d:0x34620613164530b8!8m2!3d12.2340063!4d109.1960408!16s%2Fg%2F11f7pv14nw!19sChIJXaxJeS9ncDERuDBFFhMGYjQ?authuser=0&hl=ru&rclk=1

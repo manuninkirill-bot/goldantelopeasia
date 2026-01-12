@@ -1,0 +1,4 @@
+NAME: Ciao Vietnam
+STATS: 4,4(454)
+ADDRESS: 70 Nguyễn Thiện Thuật, Tân Tiến, Nha Trang, Khánh Hòa 650000
+URL: https://www.google.com/maps/place/Ciao+Vietnam/data=!4m7!3m6!1s0x3170676498754b4f:0xe124a6ac07929af5!8m2!3d12.2340994!4d109.1945507!16s%2Fg%2F1hc0v41cj!19sChIJT0t1mGRncDER9ZqSB6ymJOE?authuser=0&hl=ru&rclk=1

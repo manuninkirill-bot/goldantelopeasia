@@ -1,0 +1,4 @@
+NAME: Nhà hàng Veteran
+STATS: 4,9(4 441)
+ADDRESS: 126B Đ. Hồng Bàng, Tân Tiến, Nha Trang, Khánh Hòa 57100
+URL: https://www.google.com/maps/place/Nh%C3%A0+h%C3%A0ng+Veteran/data=!4m7!3m6!1s0x3170670079200ea5:0x8c377db2d57685b0!8m2!3d12.2385249!4d109.1917473!16s%2Fg%2F11y6drm9ln!19sChIJpQ4geQBncDERsIV21bJ9N4w?authuser=0&hl=ru&rclk=1

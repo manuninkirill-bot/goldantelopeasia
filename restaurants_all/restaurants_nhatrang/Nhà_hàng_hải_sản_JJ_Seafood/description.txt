@@ -1,0 +1,4 @@
+NAME: Nhà hàng hải sản JJ Seafood
+STATS: 4,8(10 257)
+ADDRESS: 20 Nguyễn Thiện Thuật, Tân Tiến, Nha Trang, Khánh Hòa 65000
+URL: https://www.google.com/maps/place/Nh%C3%A0+h%C3%A0ng+h%E1%BA%A3i+s%E1%BA%A3n+JJ+Seafood/data=!4m7!3m6!1s0x31706733196a962d:0x5a3458dd3c4898f7!8m2!3d12.2392428!4d109.1934364!16s%2Fg%2F11kqnp90nl!19sChIJLZZqGTNncDER95hIPN1YNFo?authuser=0&hl=ru&rclk=1

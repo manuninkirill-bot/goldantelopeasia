@@ -1,0 +1,4 @@
+NAME: Hanami japanese restaurant
+STATS: 4,6(604)
+ADDRESS: 33 Tô Hiến Thành, Tân Tiến, Nha Trang, Khánh Hòa 57100
+URL: https://www.google.com/maps/place/Hanami+japanese+restaurant/data=!4m7!3m6!1s0x31706732804b311f:0xe5e07d83976ca92!8m2!3d12.2402356!4d109.1923563!16s%2Fg%2F11p5n7yhd_!19sChIJHzFLgDJncDERksp2OdgHXg4?authuser=0&hl=ru&rclk=1

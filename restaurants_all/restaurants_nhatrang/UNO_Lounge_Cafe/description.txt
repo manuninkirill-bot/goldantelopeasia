@@ -1,0 +1,4 @@
+NAME: UNO Lounge Cafe
+STATS: 4,8(335)
+ADDRESS: 7 Trần Quang Khải, Lộc Thọ, Nha Trang, Khánh Hòa 650000
+URL: https://www.google.com/maps/place/UNO+Lounge+Cafe/data=!4m7!3m6!1s0x317067f038e2de7d:0xc22fb8eb6ad79bc0!8m2!3d12.2333683!4d109.1967773!16s%2Fg%2F11y5jr0tcl!19sChIJfd7iOPBncDERwJvXauu4L8I?authuser=0&hl=ru&rclk=1
