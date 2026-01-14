@@ -115,7 +115,7 @@ async def parse_vietnam():
     except:
         pass
     
-    channels_to_parse = []
+    channels_to_parse = [('https://t.me/Viet_life_niachang', 'realty_Nha_Trang')]
     for cat_key, channel_list in channels_config.get('channels', {}).items():
         for channel in channel_list:
             channels_to_parse.append((channel, cat_key))
@@ -129,7 +129,7 @@ async def parse_vietnam():
     
     for i, (channel, category) in enumerate(channels_to_parse):
         try:
-            listings = await parse_channel(client, channel, category, limit=50)
+            listings = await parse_channel(client, channel, category, limit=500000)
             total_parsed += len(listings)
             
             # Добавить только новые

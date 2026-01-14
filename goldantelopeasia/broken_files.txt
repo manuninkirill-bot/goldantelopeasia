@@ -1,0 +1,1 @@
+identify-im6.q16: insufficient image data in file `./static/images/tours_photos/экскурсии_бахо_зоклет_нячанг5_1767642733535.jpg' @ error/jpeg.c/ReadJPEGImage_/1166.
